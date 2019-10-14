@@ -1,1 +1,2 @@
 # helloworld
+console.write("Hello!")
